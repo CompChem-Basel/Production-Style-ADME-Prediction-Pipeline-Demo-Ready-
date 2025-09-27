@@ -1,7 +1,6 @@
 """
 Production ADME Prediction Pipeline
 Author: Basel Mansour
-Collaboration with: Weil Cornel University
 
 """
 
